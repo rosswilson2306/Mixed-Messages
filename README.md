@@ -11,5 +11,8 @@ A simple programme which returns a message to the user when run. This was a Code
 + HTML
 + Node
 
+## Launch
+Can be run in terminal with Node or in browser console with the HTML file.
+
 ## Status
 The project is complete
